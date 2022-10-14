@@ -1,23 +1,12 @@
 {
-  "heading": "Výdavky na vzdelávanie vo všetkých krajinách EÚ",
-  "subheading": "Výdavky verejnej správy na vojenskú obranu ako percento HDP v krajinách Európskej únie v roku 2020",
+  "heading": "Sociálne platformy ako zdroj správ a informácií",
+  "subheading": "Percento ľudí v krajinách EÚ, ktorí použili platformy sociálnych médií a blogy na prístup k správam a informáciám.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltip1": "HDP",
+  "tooltip1": "opýtaných",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Vládne výdavky podľa funkcie a typu COFOG (klasifikácia funkcií verejnej správy OSN, replikovaná v ESA2010).",
+  "textNote": "",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=sk",
-  "textCountryClick": "Kliknite pre viac informácií",
-  "extraInfoText_AL": "Kandidátska krajina od roku 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Kandidátska krajina od roku 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kandidátska krajina od roku 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kandidátska krajina od roku 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kandidátska krajina od roku 2003",
-  "extraInfoLink_UA": ""
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=sk"
 }

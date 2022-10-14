@@ -1,23 +1,12 @@
 {
-  "heading": "Разходите за образование се увеличават във всички страни от ЕС",
-  "subheading": "Държавните разходи за военна отбрана като процент от БВП в страните от Европейския съюз през 2020 г.",
+  "heading": "Социалните платформи като източник на новини и информация",
+  "subheading": "Процент на хората в страните от ЕС, които са използвали социални медийни платформи и блогове за достъп до новини и информация.",
   "legend1": "Няма данни",
-  "tooltip1": "от БВП",
+  "tooltip1": "на интервюираните",
   "textSourceDescription": "Източник",
   "textSource": "Евростат",
   "textNoteDescription": "Забележка",
-  "textNote": "Държавни разходи по COFOG (класификация на функциите на правителството на UNSD, възпроизведена в ESA2010) функция и вид.",
+  "textNote": "",
   "textDataAccess": "Достъп до данните",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Кликнете за повече информация",
-  "extraInfoText_AL": "Страна кандидат от 2003 г",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Страна кандидат от 2010 г",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Страна кандидат от 2005 г",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Страна кандидат от 2003 г",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Страна кандидат от 2003 г",
-  "extraInfoLink_UA": ""
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
 }

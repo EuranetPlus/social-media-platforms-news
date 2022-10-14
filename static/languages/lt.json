@@ -1,23 +1,12 @@
 {
-  "heading": "Išlaidos švietimui visose ES šalyse",
-  "subheading": "Bendrosios valdžios išlaidos karinei gynybai procentais nuo BVP Europos Sąjungos šalyse 2020 m",
+  "heading": "Socialinės platformos kaip naujienų ir informacijos šaltinis",
+  "subheading": "Žmonių iš ES šalių, kurie naudojosi socialinės žiniasklaidos platformomis ir tinklaraščiais naujienoms ir informacijai pasiekti, procentas.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "BVP",
+  "tooltip1": "apklaustųjų",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Valdžios išlaidos pagal COFOG (UNSD vyriausybės funkcijų klasifikatorius, pakartotas ESS2010) funkciją ir tipą.",
+  "textNote": "",
   "textDataAccess": "Pasiekite duomenis",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en",
-  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos",
-  "extraInfoText_AL": "Šalis kandidatė nuo 2003 m",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Šalis kandidatė nuo 2010 m",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Šalis kandidatė nuo 2005 m",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Šalis kandidatė nuo 2003 m",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Šalis kandidatė nuo 2003 m",
-  "extraInfoLink_UA": ""
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
 }
