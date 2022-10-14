@@ -1,42 +1,42 @@
-country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url
-Albania,AL,1,TRUE,Candidate country since 2003,,,,,,,,
-Austria,AT,0,FALSE,,,,,,,,,
-Belgium,BE,0,FALSE,,,,,,,,,
-Bulgaria,BG,0,FALSE,,,,,,,,,
-Bosnia and Herzegovina,BA,1,FALSE,,,,,,,,,
-Switzerland,CH,0,FALSE,,,,,,,,,
-Cyprus,CY,0,FALSE,,,,,,,,,
-Czechia,CZ,0,FALSE,,,,,,,,,
-Germany,DE,0,FALSE,,,,,,,,,
-Denmark,DK,0,FALSE,,,,,,,,,
-Estonia,EE,0,FALSE,,,,,,,,,
-Georgia,GE,1,FALSE,,,,,,,,,
-Greece,EL,0,FALSE,,,,,,,,,
-Spain,ES,0,FALSE,,,,,,,,,
-Finland,FI,0,FALSE,,,,,,,,,
-France,FR,0,FALSE,,,,,,,,,
-Croatia,HR,0,FALSE,,,,,,,,,
-Hungary,HU,0,FALSE,,,,,,,,,
-Ireland,IE,0,FALSE,,,,,,,,,
-Iceland,IS,0,FALSE,,,,,,,,,
-Italy,IT,0,FALSE,,,,,,,,,
-Liechtenstein,LI,0,FALSE,,,,,,,,,
-Lithuania,LT,0,FALSE,,,,,,,,,
-Luxembourg,LU,0,FALSE,,,,,,,,,
-Latvia,LV,0,FALSE,,,,,,,,,
-Montenegro,ME,1,TRUE,Candidate country since 2010,,,,,,,,
-North Macedonia,MK,1,TRUE,Candidate country since 2005,,,,,,,,
-Malta,MT,0,FALSE,,,,,,,,,
-Moldova,MD,1,FALSE,,,,,,,,,
-Netherlands,NL,0,FALSE,,,,,,,,,
-Norway,NO,0,FALSE,,,,,,,,,
-Poland,PL,0,FALSE,,,,,,,,,
-Portugal,PT,0,FALSE,,,,,,,,,
-Romania,RO,0,FALSE,,,,,,,,,
-Serbia,RS,1,TRUE,Candidate country since 2003,,,,,,,,
-Sweden,SE,0,FALSE,,,,,,,,,
-Slovenia,SI,0,FALSE,,,,,,,,,
-Slovakia,SK,0,FALSE,,,,,,,,,
-Republic of Turkey,TR,1,FALSE,,,,,,,,,
-United Kingdom,UK,0,FALSE,,,,,,,,,
-Ukraine,UA,1,TRUE,Candidate country since 2003,,,,,,,,
+country,id,value
+Albania,AL,null
+Austria,AT,0.43
+Belgium,BE,0.22
+Bulgaria,BG,0.47
+Bosnia and Herzegovina,BA,null
+Switzerland,CH,null
+Cyprus,CY,0.57
+Czechia,CZ,0.35
+Germany,DE,0.16
+Denmark,DK,0.18
+Estonia,EE,0.30
+Georgia,GE,null
+Greece,EL,0.46
+Spain,ES,0.31
+Finland,FI,0.28
+France,FR,0.19
+Croatia,HR,0.42
+Hungary,HU,0.43
+Ireland,IE,0.47
+Iceland,IS,null
+Italy,IT,0.25
+Liechtenstein,LI,null
+Lithuania,LT,0.44
+Luxembourg,LU,0.28
+Latvia,LV,0.41
+Montenegro,ME,null
+North Macedonia,MK,null
+Malta,MT,0.55
+Moldova,MD,null
+Netherlands,NL,0.23
+Norway,NO,null
+Poland,PL,0.33
+Portugal,PT,0.28
+Romania,RO,0.29
+Serbia,RS,null
+Sweden,SE,0.25
+Slovenia,SI,0.36
+Slovakia,SK,0.25
+Turkey,TR,null
+United Kingdom,UK,null
+Ukraine,UA,null
