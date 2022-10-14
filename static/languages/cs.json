@@ -4,9 +4,9 @@
   "legend1": "Nejsou k dispozici žádné údaje",
   "tooltip1": "dotazovaných",
   "textSourceDescription": "Zdroj",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarometr (Evropský parlament)",
   "textNoteDescription": "Poznámka",
-  "textNote": "",
+  "textNote": "Eurobarometr je nástroj pro průzkumy veřejného mínění, který používá Evropská komise, Evropský parlament a další instituce a agentury EU k pravidelnému sledování stavu veřejného mínění v Evropě na otázky související s Evropskou unií a také postojů k tématům politické nebo sociální povahy.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=cs"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=cs"
 }

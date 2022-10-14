@@ -4,9 +4,9 @@
   "legend1": "No data available",
   "tooltip1": "of interviewees",
   "textSourceDescription": "Source",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarometer (European Parliament)",
   "textNoteDescription": "Note",
-  "textNote": "",
+  "textNote": "Eurobarometer is the polling instrument used by the European Commission, the European Parliament and other EU institutions and agencies to monitor regularly the state of public opinion in Europe on issues related to the European Union as well as attitudes on subjects of political or social nature.",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

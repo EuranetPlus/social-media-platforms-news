@@ -4,9 +4,9 @@
   "legend1": "Nėra duomenų",
   "tooltip1": "apklaustųjų",
   "textSourceDescription": "Šaltinis",
-  "textSource": "Eurostatas",
+  "textSource": "Eurobarometras (Europos Parlamentas)",
   "textNoteDescription": "Pastaba",
-  "textNote": "",
+  "textNote": "Eurobarometras yra Europos Komisijos, Europos Parlamento ir kitų ES institucijų bei agentūrų naudojama apklausų priemonė, skirta reguliariai stebėti visuomenės nuomonę Europoje su Europos Sąjunga susijusiais klausimais, taip pat požiūrį į politinio ar socialinio pobūdžio klausimus.",
   "textDataAccess": "Pasiekite duomenis",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

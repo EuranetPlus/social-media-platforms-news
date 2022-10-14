@@ -4,9 +4,9 @@
   "legend1": "Nessun dato disponibile",
   "tooltip1": "degli intervistati",
   "textSourceDescription": "Fonte",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarometro (Parlamento europeo)",
   "textNoteDescription": "Nota",
-  "textNote": "",
+  "textNote": "L'Eurobarometro è lo strumento elettorale utilizzato dalla Commissione Europea, dal Parlamento Europeo e da altre istituzioni e agenzie dell'UE per monitorare regolarmente lo stato dell'opinione pubblica in Europa su questioni relative all'Unione Europea, nonché atteggiamenti su temi di natura politica o sociale.",
   "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

@@ -4,9 +4,9 @@
   "legend1": "Ingen tilgængelig data",
   "tooltip1": "af interviewpersoner",
   "textSourceDescription": "Kilde",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarometer (Europa-Parlamentet)",
   "textNoteDescription": "Bemærk",
-  "textNote": "",
+  "textNote": "Eurobarometer er afstemningsinstrumentet, der bruges af Europa-Kommissionen, Europa-Parlamentet og andre EU-institutioner og -agenturer til regelmæssigt at overvåge den offentlige meningstilstand i Europa om spørgsmål relateret til Den Europæiske Union samt holdninger til emner af politisk eller social karakter.",
   "textDataAccess": "Få adgang til data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=da"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=da"
 }

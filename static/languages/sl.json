@@ -4,9 +4,9 @@
   "legend1": "Ni podatkov",
   "tooltip1": "intervjuvancev",
   "textSourceDescription": "Vir",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarometer (Evropski parlament)",
   "textNoteDescription": "Opomba",
-  "textNote": "",
-  "textDataAccess": "Dostopajte do podatkov",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "textNote": "Eurobarometer je javnomnenjski instrument, ki ga Evropska komisija, Evropski parlament in druge institucije in agencije EU uporabljajo za redno spremljanje stanja javnega mnenja v Evropi o vprašanjih, povezanih z Evropsko unijo, ter stališč do tem politične ali družbene narave.",
+  "textDataAccess": "Dostop do podatkov",
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

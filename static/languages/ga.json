@@ -4,9 +4,9 @@
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "de agallaithe",
   "textSourceDescription": "Foinse",
-  "textSource": "Eurostat",
+  "textSource": "Eorabharaiméadair (Parlaimint na hEorpa)",
   "textNoteDescription": "Nóta",
-  "textNote": "",
+  "textNote": "Is é Eorabharaiméadair an ionstraim vótaíochta a úsáideann an Coimisiún Eorpach, Parlaimint na hEorpa agus institiúidí agus gníomhaireachtaí eile an AE chun faireachán rialta a dhéanamh ar staid thuairim an phobail san Eoraip ar shaincheisteanna a bhaineann leis an Aontas Eorpach chomh maith le dearcthaí ar ábhair de chineál polaitiúil nó sóisialta.",
   "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=ga"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=ga"
 }

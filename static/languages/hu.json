@@ -1,12 +1,12 @@
 {
   "heading": "A közösségi platformok hír- és információforrásként",
-  "subheading": "Azon emberek százalékos aránya az EU országaiban, akik közösségi média platformokat és blogokat használtak a hírekhez és információkhoz.",
+  "subheading": "Azon emberek százalékos aránya az EU országaiban, akik közösségi média platformokat és blogokat használtak hírekhez és információkhoz.",
   "legend1": "Nincs elérhető adat",
   "tooltip1": "interjúalanyok közül",
   "textSourceDescription": "Forrás",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarométer (Európai Parlament)",
   "textNoteDescription": "jegyzet",
-  "textNote": "",
+  "textNote": "Az Eurobarométer az Európai Bizottság, az Európai Parlament és más uniós intézmények és ügynökségek által használt közvélemény-kutató eszköz, amellyel rendszeresen nyomon követi az európai közvélemény helyzetét az Európai Unióval kapcsolatos kérdésekben, valamint a politikai vagy társadalmi jellegű témákkal kapcsolatos attitűdöket.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

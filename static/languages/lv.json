@@ -4,9 +4,9 @@
   "legend1": "Nav pieejami dati",
   "tooltip1": "no intervētajiem",
   "textSourceDescription": "Avots",
-  "textSource": "Eurostat",
+  "textSource": "Eirobarometrs (Eiropas Parlaments)",
   "textNoteDescription": "Piezīme",
-  "textNote": "",
+  "textNote": "Eirobarometrs ir aptaujas instruments, ko izmanto Eiropas Komisija, Eiropas Parlaments un citas ES institūcijas un aģentūras, lai regulāri uzraudzītu sabiedriskās domas stāvokli Eiropā par jautājumiem, kas saistīti ar Eiropas Savienību, kā arī attieksmi pret politiskiem vai sociāliem jautājumiem.",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

@@ -4,9 +4,9 @@
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "der Befragten",
   "textSourceDescription": "Quelle",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarometer (Europäisches Parlament)",
   "textNoteDescription": "Notiz",
-  "textNote": "",
+  "textNote": "Eurobarometer ist das Umfrageinstrument, das von der Europäischen Kommission, dem Europäischen Parlament und anderen EU-Institutionen und -Agenturen verwendet wird, um regelmäßig den Stand der öffentlichen Meinung in Europa zu Themen im Zusammenhang mit der Europäischen Union sowie die Einstellungen zu Themen politischer oder sozialer Art zu überwachen.",
   "textDataAccess": "Greifen Sie auf die Daten zu",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

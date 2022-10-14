@@ -4,9 +4,9 @@
   "legend1": "Andmed puuduvad",
   "tooltip1": "intervjueeritavatest",
   "textSourceDescription": "Allikas",
-  "textSource": "Eurostat",
+  "textSource": "Eurobaromeeter (Euroopa Parlament)",
   "textNoteDescription": "Märge",
-  "textNote": "",
+  "textNote": "Eurobaromeeter on küsitlusvahend, mida kasutavad Euroopa Komisjon, Euroopa Parlament ja teised ELi institutsioonid ja agentuurid, et jälgida korrapäraselt Euroopa avaliku arvamuse seisu Euroopa Liiduga seotud küsimustes ning suhtumist poliitilistes või sotsiaalsetes küsimustes.",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=et"
 }

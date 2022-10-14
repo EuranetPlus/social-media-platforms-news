@@ -4,9 +4,9 @@
   "legend1": "Nici o informatie disponibila",
   "tooltip1": "a intervievaţilor",
   "textSourceDescription": "Sursă",
-  "textSource": "Eurostat",
+  "textSource": "Eurobarometru (Parlamentul European)",
   "textNoteDescription": "Notă",
-  "textNote": "",
+  "textNote": "Eurobarometrul este instrumentul de sondaj utilizat de Comisia Europeană, Parlamentul European și alte instituții și agenții ale UE pentru a monitoriza în mod regulat starea opiniei publice din Europa cu privire la problemele legate de Uniunea Europeană, precum și atitudinile față de subiecte de natură politică sau socială.",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

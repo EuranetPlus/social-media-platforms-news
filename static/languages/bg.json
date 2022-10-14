@@ -4,9 +4,9 @@
   "legend1": "Няма данни",
   "tooltip1": "на интервюираните",
   "textSourceDescription": "Източник",
-  "textSource": "Евростат",
+  "textSource": "Евробарометър (Европейски парламент)",
   "textNoteDescription": "Забележка",
-  "textNote": "",
+  "textNote": "Евробарометър е инструмент за проучване, използван от Европейската комисия, Европейския парламент и други институции и агенции на ЕС за редовно наблюдение на състоянието на общественото мнение в Европа по въпроси, свързани с Европейския съюз, както и нагласите по теми от политическо или социално естество.",
   "textDataAccess": "Достъп до данните",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/tps00005/default/table?lang=en"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=bg"
 }
