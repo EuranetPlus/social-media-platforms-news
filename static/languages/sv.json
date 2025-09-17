@@ -1,12 +1,12 @@
 {
   "heading": "Sociala plattformar som en källa till nyheter och information",
-  "subheading": "Andel av människor i EU-länder som använder sociala medieplattformar som sin primära kanal för att få tillgång till nyheter.",
-  "legend1": "Ingen data tillgänglig",
+  "subheading": "Andel personer i EU-länderna som använder sociala medieplattformar som sin primära kanal för att få tillgång till nyheter.",
+  "legend1": "Inga data tillgängliga",
   "tooltip1": "av intervjupersoner",
   "textSourceDescription": "Källa",
   "textSource": "Eurobarometer (Europaparlamentet)",
   "textNoteDescription": "Notera",
-  "textNote": "Eurobarometer är det undersökningsinstrument som används av EU-kommissionen, Europaparlamentet och andra EU-institutioner och byråer för att regelbundet övervaka den allmänna opinionens tillstånd i Europa i frågor relaterade till Europeiska unionen samt attityder i ämnen av politisk eller social karaktär.",
-  "textDataAccess": "Få åtkomst till data",
+  "textNote": "Eurobarometer är det opinionsinstrument som används av Europeiska kommissionen, Europaparlamentet och andra EU-institutioner och -byråer för att regelbundet övervaka den allmänna opinionen i Europa i frågor som rör Europeiska unionen samt attityder i frågor av politisk eller social karaktär.",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

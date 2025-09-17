@@ -1,12 +1,12 @@
 {
-  "heading": "Sotsiaalsed platvormid uudiste ja teabe allikana",
-  "subheading": "Nende inimeste protsent ELi riikides, kes kasutavad uudistele juurdepääsu peamise kanalina sotsiaalmeedia platvorme.",
-  "legend1": "Andmed puuduvad",
+  "heading": "Sotsiaalplatvormid uudiste ja teabe allikana",
+  "subheading": "Nende inimeste osakaal ELi riikides, kes kasutavad uudiste peamise kanalina sotsiaalmeedia platvorme.",
+  "legend1": "Andmed pole saadaval",
   "tooltip1": "intervjueeritavatest",
   "textSourceDescription": "Allikas",
   "textSource": "Eurobaromeeter (Euroopa Parlament)",
-  "textNoteDescription": "Märge",
-  "textNote": "Eurobaromeeter on küsitlusvahend, mida kasutavad Euroopa Komisjon, Euroopa Parlament ja teised ELi institutsioonid ja agentuurid, et jälgida korrapäraselt Euroopa avaliku arvamuse seisu Euroopa Liiduga seotud küsimustes ning suhtumist poliitilistes või sotsiaalsetes küsimustes.",
+  "textNoteDescription": "Märkus",
+  "textNote": "Eurobaromeeter on küsitlusvahend, mida Euroopa Komisjon, Euroopa Parlament ja teised ELi institutsioonid ja asutused kasutavad avaliku arvamuse regulaarseks jälgimiseks Euroopas Euroopa Liiduga seotud küsimustes ning hoiakute kohta poliitilistel või sotsiaalsetel teemadel.",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=et"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

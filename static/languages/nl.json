@@ -1,12 +1,12 @@
 {
   "heading": "Sociale platforms als bron van nieuws en informatie",
-  "subheading": "Percentage mensen in EU-landen dat sociale-mediaplatforms gebruikt als hun primaire kanaal voor toegang tot nieuws.",
+  "subheading": "Percentage van de mensen in EU-landen dat sociale-mediaplatformen als primair kanaal gebruikt om toegang te krijgen tot nieuws.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van geïnterviewden",
   "textSourceDescription": "Bron",
   "textSource": "Eurobarometer (Europees Parlement)",
   "textNoteDescription": "Opmerking",
-  "textNote": "Eurobarometer is het peilingsinstrument dat door de Europese Commissie, het Europees Parlement en andere EU-instellingen en -agentschappen wordt gebruikt om regelmatig de stand van de publieke opinie in Europa te volgen over kwesties die verband houden met de Europese Unie, evenals de houding ten aanzien van onderwerpen van politieke of sociale aard.",
+  "textNote": "Eurobarometer is een peilingsinstrument van de Europese Commissie, het Europees Parlement en andere EU-instellingen en -agentschappen waarmee regelmatig de publieke opinie in Europa over kwesties die verband houden met de Europese Unie, wordt gepeild. Ook de houding ten opzichte van politieke of sociale onderwerpen wordt gemeten.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

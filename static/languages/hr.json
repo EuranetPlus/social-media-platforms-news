@@ -6,7 +6,7 @@
   "textSourceDescription": "Izvor",
   "textSource": "Eurobarometar (Europski parlament)",
   "textNoteDescription": "Bilješka",
-  "textNote": "Eurobarometar je anketni instrument kojim Europska komisija, Europski parlament i druge institucije i agencije EU redovito prate stanje javnog mnijenja u Europi o pitanjima vezanim uz Europsku uniju kao i stavove o temama političke ili društvene prirode.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Eurobarometar je instrument anketiranja koji koriste Europska komisija, Europski parlament i druge institucije i agencije EU-a kako bi redovito pratili stanje javnog mnijenja u Europi o pitanjima vezanim uz Europsku uniju, kao i stavove o temama političke ili društvene prirode.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

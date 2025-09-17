@@ -1,12 +1,12 @@
 {
   "heading": "Plataformas sociais como fonte de notícias e informações",
-  "subheading": "Percentagem de pessoas nos países da UE que utilizam plataformas de redes sociais como principal canal de acesso a notícias.",
+  "subheading": "Porcentagem de pessoas nos países da UE que usam plataformas de mídia social como seu principal canal de acesso a notícias.",
   "legend1": "Nenhum dado disponível",
-  "tooltip1": "de entrevistados",
+  "tooltip1": "dos entrevistados",
   "textSourceDescription": "Fonte",
-  "textSource": "Eurobarômetro (Parlamento Europeu)",
+  "textSource": "Eurobarómetro (Parlamento Europeu)",
   "textNoteDescription": "Observação",
-  "textNote": "O Eurobarómetro é o instrumento de sondagem utilizado pela Comissão Europeia, Parlamento Europeu e outras instituições e agências da UE para monitorizar regularmente o estado da opinião pública na Europa sobre questões relacionadas com a União Europeia, bem como as atitudes sobre assuntos de natureza política ou social.",
+  "textNote": "O Eurobarômetro é o instrumento de pesquisa usado pela Comissão Europeia, pelo Parlamento Europeu e por outras instituições e agências da UE para monitorar regularmente o estado da opinião pública na Europa sobre questões relacionadas à União Europeia, bem como atitudes sobre assuntos de natureza política ou social.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

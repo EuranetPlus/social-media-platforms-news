@@ -1,12 +1,12 @@
 {
   "heading": "Sociální platformy jako zdroj zpráv a informací",
-  "subheading": "Procento lidí v zemích EU, kteří používají platformy sociálních médií jako svůj primární kanál pro přístup ke zprávám.",
-  "legend1": "Nejsou k dispozici žádné údaje",
-  "tooltip1": "dotazovaných",
+  "subheading": "Procento lidí v zemích EU, kteří používají platformy sociálních médií jako svůj primární kanál pro přístup k zprávám.",
+  "legend1": "Nejsou k dispozici žádná data",
+  "tooltip1": "respondentů",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurobarometr (Evropský parlament)",
   "textNoteDescription": "Poznámka",
-  "textNote": "Eurobarometr je nástroj pro průzkumy veřejného mínění, který používá Evropská komise, Evropský parlament a další instituce a agentury EU k pravidelnému sledování stavu veřejného mínění v Evropě na otázky související s Evropskou unií a také postojů k tématům politické nebo sociální povahy.",
+  "textNote": "Eurobarometr je nástroj pro průzkumy veřejného mínění, který používá Evropská komise, Evropský parlament a další instituce a agentury EU k pravidelnému sledování stavu veřejného mínění v Evropě ohledně otázek týkajících se Evropské unie, jakož i postojů k tématům politické nebo sociální povahy.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=cs"
+  "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

@@ -1,12 +1,12 @@
 {
-  "heading": "Soziale Plattformen als Quelle für Nachrichten und Informationen",
-  "subheading": "Prozentsatz der Menschen in den EU-Ländern, die Social-Media-Plattformen als primären Kanal für den Zugriff auf Nachrichten nutzen.",
+  "heading": "Soziale Plattformen als Nachrichten- und Informationsquelle",
+  "subheading": "Prozentsatz der Menschen in den EU-Ländern, die soziale Medienplattformen als primären Kanal für den Zugriff auf Nachrichten nutzen.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "der Befragten",
   "textSourceDescription": "Quelle",
   "textSource": "Eurobarometer (Europäisches Parlament)",
   "textNoteDescription": "Notiz",
-  "textNote": "Eurobarometer ist das Umfrageinstrument, das von der Europäischen Kommission, dem Europäischen Parlament und anderen EU-Institutionen und -Agenturen verwendet wird, um regelmäßig den Stand der öffentlichen Meinung in Europa zu Themen im Zusammenhang mit der Europäischen Union sowie die Einstellungen zu Themen politischer oder sozialer Art zu überwachen.",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textNote": "Eurobarometer ist das Umfrageinstrument der Europäischen Kommission, des Europäischen Parlaments und anderer EU-Institutionen und -Agenturen, mit dem regelmäßig die öffentliche Meinung in Europa zu Fragen im Zusammenhang mit der Europäischen Union sowie die Einstellungen zu Themen politischer oder gesellschaftlicher Natur beobachtet werden.",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

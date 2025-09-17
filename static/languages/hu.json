@@ -1,12 +1,12 @@
 {
-  "heading": "A közösségi platformok hír- és információforrásként",
-  "subheading": "Azon emberek százalékos aránya az EU országaiban, akik a közösségi média platformokat használják elsődleges csatornaként a hírek elérésére.",
-  "legend1": "Nincs elérhető adat",
-  "tooltip1": "interjúalanyok közül",
+  "heading": "Közösségi platformok, mint hírek és információk forrása",
+  "subheading": "Az EU-országokban a közösségi média platformokat elsődleges hírhozzáférési csatornaként használók százalékos aránya.",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "az interjúalanyok közül",
   "textSourceDescription": "Forrás",
   "textSource": "Eurobarométer (Európai Parlament)",
-  "textNoteDescription": "jegyzet",
-  "textNote": "Az Eurobarométer az Európai Bizottság, az Európai Parlament és más uniós intézmények és ügynökségek által használt közvélemény-kutató eszköz, amellyel rendszeresen nyomon követi az európai közvélemény helyzetét az Európai Unióval kapcsolatos kérdésekben, valamint a politikai vagy társadalmi jellegű témákkal kapcsolatos attitűdöket.",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "Az Eurobarométer az Európai Bizottság, az Európai Parlament és más uniós intézmények és ügynökségek által használt közvélemény-kutatási eszköz, amely rendszeresen figyelemmel kíséri az európai közvélemény állapotát az Európai Unióval kapcsolatos kérdésekben, valamint a politikai vagy társadalmi jellegű kérdésekhez való hozzáállást.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }

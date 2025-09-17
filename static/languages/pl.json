@@ -1,12 +1,12 @@
 {
   "heading": "Platformy społecznościowe jako źródło wiadomości i informacji",
-  "subheading": "Odsetek osób w krajach UE korzystających z platform mediów społecznościowych jako głównego kanału dostępu do wiadomości.",
+  "subheading": "Procent osób w krajach UE korzystających z mediów społecznościowych jako głównego kanału dostępu do wiadomości.",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "rozmówców",
+  "tooltip1": "osób udzielających wywiadu",
   "textSourceDescription": "Źródło",
   "textSource": "Eurobarometr (Parlament Europejski)",
   "textNoteDescription": "Notatka",
-  "textNote": "Eurobarometr jest instrumentem sondażowym wykorzystywanym przez Komisję Europejską, Parlament Europejski oraz inne instytucje i agencje UE do regularnego monitorowania stanu opinii publicznej w Europie w kwestiach związanych z Unią Europejską oraz postaw na tematy o charakterze politycznym lub społecznym.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textNote": "Eurobarometr to narzędzie sondażowe wykorzystywane przez Komisję Europejską, Parlament Europejski i inne instytucje oraz agencje UE do regularnego monitorowania stanu opinii publicznej w Europie w kwestiach związanych z Unią Europejską, a także postaw wobec kwestii politycznych lub społecznych.",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://data.europa.eu/data/datasets/s2832_fl011ep_eng?locale=en"
 }
